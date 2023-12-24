@@ -32,4 +32,5 @@
 	[ 'turtle'     ] = 'https://raw.githubusercontent.com/kepler155c/opus-apps/develop-1.8/turtle/.package',
 	[ 'dynet'     ] = 'https://raw.githubusercontent.com/tommarekCZE/opus-apps/develop-1.8/dynet/.package',
 	[ 'dynetServer'     ] = 'https://raw.githubusercontent.com/tommarekCZE/opus-apps/develop-1.8/dynetServer/.package',
+	[ 'gitget'     ] = 'https://raw.githubusercontent.com/tommarekCZE/opus-apps/develop-1.8/gitget/.package',
 }

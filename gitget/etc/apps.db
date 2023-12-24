@@ -1,8 +1,8 @@
 {
-	[ "44e7dc9925f6bee4f6c3619bbe34029b83be043bb0b4ff439fb0e1c2d99501c8" ] = {
-		title = "DynetServer",
-		category = "Dynet",
-		run = "install",
+	[ "53e84a632237de1ebb0969e6130afe3d3cd280a2781db5b21832c564460d942c" ] = {
+		title = "GitGet Installer",
+		category = "System",
+		run = "gitinstall",
 		iconExt = "\0300\031 \159\131\135\0310\128\128\031 \139\131\030 \0310\144\010\0300\128\031f\137\144\0310\128\030a\136\149\133\0300\128\010\0300\031 \144\031f\134\136\132\031a\142\138\138\030 \0310\159",
 	},
 }

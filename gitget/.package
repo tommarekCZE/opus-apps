@@ -1,0 +1,6 @@
+{
+	title = 'gitget',
+	repository = 'tommarekCZE/opus-apps/{{OPUS_BRANCH}}/gitget',
+	description = [[Program that allows download from github, gitget (user) (repo)]],
+	license = 'MIT',
+}
