@@ -14,4 +14,4 @@ end
 	
 print("Downloading Repository...")
 shell.setPath("/disk/")
-shell.run(gitget, "tommarekCZE", "dynetInstaller")
+shell.run(gitget, "tommarekCZE", "dynetInstaller", "main")
