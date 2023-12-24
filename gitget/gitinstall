@@ -1,3 +1,5 @@
 print("Installing GitGet")
 shell.run("pastebin get W5ZkVYSi /gitget")
 print("Succesfuly Installed...")
+write("Press any key to continue")
+os.pullEvent("key")
