@@ -1,0 +1,6 @@
+{
+	title = 'Dynet Server',
+	repository = 'tommarekCZE/opus-apps/{{OPUS_BRANCH}}/dynetServer',
+	description = [[Dynet Server Setup for creating DNS and Servers]],
+	license = 'MIT',
+}
