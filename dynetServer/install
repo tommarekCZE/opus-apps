@@ -10,6 +10,7 @@ else
 	write("Press any key to continue")
 	os.pullEvent("key")
 	return
+end
 	
 print("Downloading Repository...")
 shell.setPath("/disk/")
