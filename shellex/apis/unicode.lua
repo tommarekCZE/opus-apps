@@ -1,3 +1,0 @@
-return {
-	wlen = string.len
-}
