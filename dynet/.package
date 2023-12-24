@@ -1,6 +1,6 @@
 {
 	title = 'Dynet Client',
-	repository = 'kepler155c/opus-apps/{{OPUS_BRANCH}}/games',
-	description = [[Dynet Client for visiting dynet websites]],
+	repository = 'tommarekCZE/opus-apps/{{OPUS_BRANCH}}/dynet',
+	description = [[Dynet Client for accesing dynet websites]],
 	license = 'MIT',
 }
