@@ -3,7 +3,7 @@ print("Please interest disk on right side, keep all other disks ejected!")
 write("Press any key to continue")
 os.pullEvent("key")
 
-if disk.isPresent("right")
+if disk.isPresent("right") then
 	print("Downloading files at right disk")
 else
 	print("Please setup disk on right side")
